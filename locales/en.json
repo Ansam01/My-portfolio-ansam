@@ -1,0 +1,79 @@
+{
+  "pageTitle": "Portfolio | Ansam",
+
+  "navHome": "Home",
+  "navAbout": "About",
+  "navSkills": "Skills",
+  "navProjects": "Projects",
+  "navCertificates": "Certificates",
+  "navContact": "Contact",
+
+  "heroRole": "Web Developer • UI/UX Designer",
+  "heroTitleBefore": "Hi, I'm",
+  "heroName": "Ansam",
+  "heroTitleAfter": "👋",
+  "heroDesc": "I build modern websites and clean user experiences. Interested in Web Development, UI/UX, and community-focused tech projects.",
+  "heroBtnProjects": "View Projects",
+  "heroBtnContact": "Contact Me",
+  "location": "📍 Saudi Arabia",
+  "miniGithub": "GitHub",
+  "miniLinkedIn": "LinkedIn",
+
+  "heroCardTitle": "Quick Overview",
+  "heroCardDesc": "Software developer focused on building modern websites with clear and organized user experiences. Experienced in integrating front-end with back-end using Node.js and MySQL, with a strong focus on simplicity and structure.",
+
+  "aboutTitle": "About Me",
+  "aboutDesc": "Programming and Computer Science graduate passionate about technology and digital solutions. I enjoy learning, taking initiative, and building practical web solutions and UI designs. I gained hands-on experience through training and applied projects, and I aim to contribute to impactful technical projects.",
+
+  "skillsTitle": "Skills",
+  "skillsFE": "Front-End",
+  "skillsUIUX": "UI / UX",
+  "skillsBE": "Back-End",
+  "skillsTools": "Tools",
+
+  "certificatesTitle": "Certificates & Courses",
+  "cert1Title": "UI/UX Design",
+  "cert1Desc": "UI/UX Design Bootcamp",
+  "cert2Title": "Digital Transformation",
+  "cert2Desc": "Workshop: The importance of Business Intelligence in the future of Digital Transformation (Challenges & Solutions)",
+  "cert3Title": "Artificial Intelligence",
+  "cert3Desc": "AI concepts and advanced applications",
+
+  "projectsTitle": "Projects",
+  "proj1Title": "Dalil Rafed",
+  "proj1Desc": "A digital tourism platform that supports domestic tourism in Saudi Arabia, helping users discover destinations and landmarks easily.",
+  "proj2Title": "Power BI Dashboard",
+  "proj2Desc": "A dashboard that provides an overview of employee data (distribution, counts, salaries, and roles) with filters for fast insights and decision support.",
+  "proj3Title": "Helpdesk Lite",
+  "proj3Desc": "A helpdesk & ticketing system to manage requests and track maintenance.",
+  "proj4Title": "Inspired App – UI/UX",
+  "proj4Desc": "A UI/UX project for an Inspired app, focusing on usability and building a clear user journey from idea to execution.",
+
+  "viewBtn": "View",
+  "githubBtn": "GitHub",
+
+  "cvTitle": "CV",
+  "cvDesc": "You can view or download my CV in PDF format.",
+  "viewCV": "View CV",
+  "downloadCV": "Download CV",
+
+  "contactTitle": "Contact",
+  "contactDesc": "Feel free to reach out through any of the following methods:",
+  "contactEmailLabel": "Email",
+  "contactLinkedinLabel": "LinkedIn",
+  "contactGithubLabel": "GitHub",
+  "contactXLabel": "X",
+  "contactPhoneLabel": "Phone",
+
+  "formName": "Name",
+  "formEmail": "Email",
+  "formMessage": "Message",
+  "formSend": "Send",
+  "formHint": "",
+
+  "phName": "Your name",
+  "phEmail": "name@email.com",
+  "phMessage": "Write your message here...",
+
+  "footerText": "© {year} All rights reserved — Ansam"
+}
