@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       navHome: "الرئيسية",
       navAbout: "من أنا",
+      navExperience: "الخبرات",
       navSkills: "المهارات",
       navProjects: "المشاريع",
       navCertificates: "الشهادات",
@@ -31,6 +32,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
       aboutTitle: "من أنا",
       aboutDesc: "خريجة برمجة وعلوم الحاسب أمتلك شغفًا بالتقنية وتطوير الحلول الرقمية أتميّز بروح المبادرة وحب التعلّم ولدي مهارات في تطوير مواقع الويب تصميم الواجهات والعمل مع قواعد البيانات اكتسبت خبرة عملية من خلال التدريب والمشاريع التطبيقية، وأسعى للمشاركة في مشاريع تقنية تُحدث أثرًا إيجابيًا وتضيف قيمة حقيقية.",
+
+
+      experienceTitle: "الخبرات",
+
+exper1Title: "قسم التحول الرقمي",
+exper1Info: "أمانة العاصمة المقدسة - قسم التحول الرقمي (البنية المؤسسية الرقمية) 2024",
+exper1Desc1: "تصميم وتطوير موقع إلكتروني بسيط باستخدام لغات البرمجة كجزء من التدريب في أمانة العاصمة المقدسة.",
+exper1Desc2: "تصميم لوحة تحكم تحليلية Dashboard باستخدام Power BI لتقديم تقارير تحليلية فعالة ومرئية تدعم اتخاذ القرار.",
+
+exper2Title: "قسم تقنية المعلومات",
+exper2Info: "مستشفى الملك عبدالعزيز - قسم الصحة الرقمية (تقنية المعلومات) 2025",
+exper2Desc1: "تقديم الدعم الفني وصيانة الأجهزة لمختلف أقسام المستشفى.",
+exper2Desc2: "قمت بحل المشكلات التقنية وتحسين أداء أنظمة التشغيل.",
+exper2Desc3: "شاركت في تحسين كفاءة فريق تقنية المعلومات مما ساهم في تحسين استمرارية العمل.",
+
+exper3Title: "محللة بيانات",
+exper3Info: "وزارة الحج والعمرة - مركز تحليل البيانات وذكاء الأعمال 2026",
+exper3Desc1: "تحليل البيانات الخاصة بالحج لاستخراج المؤشرات والمعلومات الداعمة لاتخاذ القرار.",
+exper3Desc2: "إعداد وتطوير لوحات معلومات وتقارير تحليلية تفاعلية باستخدام Power BI.",
+exper3Desc3: "إعداد التقارير التشغيلية وتنفيذ المهام الإدارية.",
+
+
 
       skillsTitle: "المهارات",
       skillsFE: "Front-End",
@@ -86,6 +109,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       navHome: "Home",
       navAbout: "About",
+      navExperience: "Experience",
       navSkills: "Skills",
       navProjects: "Projects",
       navCertificates: "Certificates",
@@ -107,6 +131,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
       aboutTitle: "About Me",
       aboutDesc: "Programming and Computer Science graduate passionate about technology and digital solutions. I enjoy learning, taking initiative, and building practical web solutions and UI designs. I gained hands-on experience through training and applied projects, and I aim to contribute to impactful technical projects.",
+
+
+      experienceTitle: "Experience",
+
+exper1Title: "Digital Transformation Department",
+exper1Info: "Holy Capital Municipality - Digital Transformation Department (Digital Enterprise Architecture) 2024",
+exper1Desc1: "Designed and developed a simple website using programming languages as part of my training at the Holy Capital Municipality.",
+exper1Desc2: "Designed an analytical dashboard using Power BI to provide effective and visual reports that support decision-making.",
+
+exper2Title: "Information Technology Department",
+exper2Info: "King Abdulaziz Hospital - Digital Health Department (Information Technology) 2025",
+exper2Desc1: "Provided technical support and maintained devices across different hospital departments.",
+exper2Desc2: "Resolved technical issues and improved operating system performance.",
+exper2Desc3: "Contributed to improving the efficiency of the IT team, helping maintain business continuity.",
+
+exper3Title: "Data Analyst",
+exper3Info: "Ministry of Hajj and Umrah - Data Analysis & Business Intelligence Center 2026",
+exper3Desc1: "Analyzed Hajj-related data to extract indicators and insights that support decision-making.",
+exper3Desc2: "Developed interactive dashboards and analytical reports using Power BI.",
+exper3Desc3: "Prepared operational reports and performed administrative tasks.",
+
+
 
       skillsTitle: "Skills",
       skillsFE: "Front-End",
