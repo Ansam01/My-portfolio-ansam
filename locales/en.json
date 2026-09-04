@@ -3,6 +3,7 @@
 
   "navHome": "Home",
   "navAbout": "About",
+  "navExperience": "Experience",
   "navSkills": "Skills",
   "navProjects": "Projects",
   "navCertificates": "Certificates",
@@ -22,10 +23,31 @@
   "heroCardTitle": "Quick Overview",
   "heroCardDesc": "Software developer focused on building modern websites with clear and organized user experiences. Experienced in integrating front-end with back-end using Node.js and MySQL, with a strong focus on simplicity and structure.",
 
-  "aboutTitle": "About Me",
-  "aboutDesc": "Programming and Computer Science graduate passionate about technology and digital solutions. I enjoy learning, taking initiative, and building practical web solutions and UI designs. I gained hands-on experience through training and applied projects, and I aim to contribute to impactful technical projects.",
+"aboutTitle": "About Me",
+"aboutDesc": "Programming and Computer Science graduate passionate about technology and digital solutions. I enjoy learning, taking initiative, and building practical web solutions and UI designs. I gained hands-on experience through training and applied projects, and I aim to contribute to impactful technical projects.",
 
-  "skillsTitle": "Skills",
+
+"experienceTitle": "Experience",
+
+"exper1Title": "Digital Transformation Department",
+"exper1Info": "Holy Capital Municipality - Digital Transformation Department (Digital Enterprise Architecture) 2024",
+"exper1Desc1": "Designed and developed a simple website using programming languages as part of my training at the Holy Capital Municipality.",
+"exper1Desc2": "Designed an analytical dashboard using Power BI to provide effective and visual reports that support decision-making.",
+
+"exper2Title": "Information Technology Department",
+"exper2Info": "King Abdulaziz Hospital - Digital Health Department (Information Technology) 2025",
+"exper2Desc1": "Provided technical support and maintained devices across different hospital departments.",
+"exper2Desc2": "Resolved technical issues and improved operating system performance.",
+"exper2Desc3": "Contributed to improving the efficiency of the IT team, helping maintain business continuity.",
+
+"exper3Title": "Data Analyst",
+"exper3Info": "Ministry of Hajj and Umrah - Data Analysis & Business Intelligence Center 2026",
+"exper3Desc1": "Analyzed Hajj-related data to extract indicators and insights that support decision-making.",
+"exper3Desc2": "Developed interactive dashboards and analytical reports using Power BI.",
+"exper3Desc3": "Prepared operational reports and performed administrative tasks.",
+
+
+"skillsTitle": "Skills",
   "skillsFE": "Front-End",
   "skillsUIUX": "UI / UX",
   "skillsBE": "Back-End",
